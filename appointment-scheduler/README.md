@@ -51,8 +51,6 @@ Appointment 2:
 Result:
 Creation Failed
 
-````
-
 ## Functions
 
 ### Validation
@@ -85,7 +83,6 @@ Completed: 1
 Cancelled: 1
 
 Total Appointments: 4
-````
 
 ## Future Improvements
 
@@ -102,5 +99,3 @@ Total Appointments: 4
 ## Learning Goal
 
 This project is part of my JavaScript backend development learning path and serves as preparation for building a full-stack Digital Grama Niladhari Administration System using the MERN stack.
-
-````
