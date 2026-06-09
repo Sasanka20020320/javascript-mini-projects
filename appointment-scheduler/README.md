@@ -75,7 +75,6 @@ Creation Failed
 
 ## Example Dashboard Output
 
-```text
 ===== APPOINTMENT DASHBOARD =====
 
 Booked: 2
